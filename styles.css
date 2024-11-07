@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+.contenedor{
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+    background-color: white;
+    font-family: Roboto;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.heading img{
+    height: 20px;
+}
+.heading p{
+    margin: 0;
+}
+.heading-left{
+    display: flex;
+}
+.heading-left img{
+    padding: 7px;
+}
+.imagen img{
+    width: 100%;
+}
+.textos .textos-iconos{
+    padding: 8px;
+    margin: 0 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.textos-iconos-left span{
+    margin: 0 2px;
+}
+.textos-textos{
+    margin: 5px 15px;
+}
+.material-symbols-outlined{
+    font-size: 30px !important;
+}
