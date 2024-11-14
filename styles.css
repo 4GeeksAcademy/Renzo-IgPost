@@ -44,5 +44,6 @@ body{
     margin: 5px 15px;
 }
 .material-symbols-outlined{
-    font-size: 30px !important;
+    font-size: 34px !important;
+    cursor: pointer;
 }
